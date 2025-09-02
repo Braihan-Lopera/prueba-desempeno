@@ -1,9 +1,9 @@
 import React from "react";
 import "../styles/Contenedores.css"
 
-export default function ContenedorTres(){
+export default function ContenedorCuatro(){
     return(
-        <div className="contenedor_Tres">
+        <div className="contenedor_Cuatro">
             <div className="titulo_Principal">
                 <h2>CONTENEDOR</h2>
             </div>

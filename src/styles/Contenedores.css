@@ -1,54 +1,65 @@
 .contenedor_Uno{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
     justify-content: center;
     text-align: center;
     align-items: center;
     display: flex;
-    height: 70%;
-    width: 25%;
+    height: 80%;
+    width: 20%;
     flex-direction: column;
     margin: 0;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 10px;
     margin-bottom: 10px;
 }
 
 .contenedor_Dos{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     justify-content: center;
     text-align: center;
     display: flex;
-    height: 70%;
-    width: 25%;
+    height: 80%;
+     width: 20%;
     flex-direction: column;
     align-items: center;
     margin: 0;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 10px;
     margin-bottom: 10px;
 }
 
 
 .contenedor_Tres{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     justify-content: center;
     text-align: center;
     align-items: center;
     display: flex;
-    height: 70%;
-    width: 25%;
+    height: 80%;
+    width: 20%;
     flex-direction: column;
     margin: 0;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.contenedor_Cuatro{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    height: 80%;
+    width: 20%;
+    flex-direction: column;
+    margin: 0;
+    border: 1px solid black;
+    border-radius: 10px;
     margin-bottom: 10px;
 }
 
 
-
 .titulo_Principal{
-    border-top-right-radius: 20px;
-    border-top-left-radius: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -59,8 +70,8 @@
 }
 .titulo_Div{
     background-color: white;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
