@@ -1,0 +1,12 @@
+.div_Main{
+    background-color: #80b1da;
+    width: 98%;
+    height: 95%;
+    border-radius:20px;
+    margin-top: 10px;
+    margin: 20px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+}

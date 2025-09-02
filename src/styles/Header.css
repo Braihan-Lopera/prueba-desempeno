@@ -1,0 +1,14 @@
+.header_Div{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(170, 204, 232);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(59, 59, 59);
+    h1{
+        margin: 0;
+    }
+}
